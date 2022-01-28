@@ -1,6 +1,6 @@
 # Covid-19-Power-Bi-Visualization
 
-- Covid-19 Visualization using Power Bi
+- Covid-19 Visualization using Power Bi, the dashboard is interactive.
 
 Dataset from : https://www.worldometers.info/coronavirus/
 
